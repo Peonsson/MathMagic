@@ -3,6 +3,15 @@ using System.Diagnostics;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
+/** 
+ * MathMagic is a program that aims to help the user practice multiplication.
+ * Input is the number of questions and the answer to each question.
+ * Output are questions, number of right and wrong answers and the time it took to complete all of the questions.
+ * 
+ * Author : Johan Pettersson
+ * Contact : Peonsson@gmail.com
+ */
+
 namespace MathMagic
 {
     class Program
